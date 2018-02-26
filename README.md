@@ -7,7 +7,7 @@ Travis T. Wager, Xinjun Hou, Patrick R. Verhoest, and Anabella Villalobos
 ACS Chemical Neuroscience 2010 1 (6), 435-449
 DOI: 10.1021/cn100008c
 
-----------------------------------------------------------------------
+======================================================================
  			CNS MPO Score and Solubility forecaster index (3.2)			        
 --------------------------- Compatibility ----------------------------
  					Compatible with Python 2.7 & 3.5					                  
@@ -25,7 +25,5 @@ DOI: 10.1021/cn100008c
  						- CNS MPO Score
  						- Solubility forecaster index (SFI)[optional]	            
  						- bpKa,logD(7.4),logP,MW,HBD,Ar,TPSA
- 						- All individual components of MPO Score		              
-----------------------------------------------------------------------
-(C) Dr. De Cesco Stephane - v3.2 - 22/03/2017
-----------------------------------------------------------------------
+ 						- All individual components of MPO Score
+======================================================================
