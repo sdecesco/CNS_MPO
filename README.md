@@ -8,7 +8,7 @@ ACS Chemical Neuroscience 2010 1 (6), 435-449
 DOI: 10.1021/cn100008c
 
 ======================================================================
- 			CNS MPO Score and Solubility forecaster index (3.2)			        
+            CNS MPO Score and Solubility forecaster index (3.2)			        
 --------------------------- Compatibility ----------------------------
  					Compatible with Python 2.7 & 3.5					                  
 ----------------------Prerequiste installations-----------------------
@@ -16,14 +16,14 @@ DOI: 10.1021/cn100008c
             Chemaxon Marvin suite WITH license
             cxcalc module required to work 	(used for pKa pred)
  					(make sure to add cxcalc to $PATH)
-                    
- by default : C:\Program Files (x86)\ChemAxon\MarvinBeans\bin
- How to use :
- 		- input the sdf file name when requested (.sdf included)
- 		- the script output an sdf with name_out.sdf
- 			This sdf contains the fields with :
- 						- CNS MPO Score
- 						- Solubility forecaster index (SFI)[optional]	            
- 						- bpKa,logD(7.4),logP,MW,HBD,Ar,TPSA
- 						- All individual components of MPO Score
+by default : C:\Program Files (x86)\ChemAxon\MarvinBeans\bin
+How to use :
+    - input the sdf file name when requested (.sdf included)
+    - the script output an sdf with name_out.sdf
+        This sdf contains the fields with :
+        - CNS MPO Score
+        - Solubility forecaster index (SFI)[optional]
+        - bpKa,logD(7.4),logP,MW,HBD,Ar,TPSA
+        - All individual components of MPO Score
+
 ======================================================================
