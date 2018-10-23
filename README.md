@@ -7,6 +7,11 @@ Travis T. Wager, Xinjun Hou, Patrick R. Verhoest, and Anabella Villalobos
 ACS Chemical Neuroscience 2010 1 (6), 435-449
 DOI: 10.1021/cn100008c
 
+Physicochemical properties are calculated using the "cxcalc" module of [ChemAxon](https://www.chemaxon.com)
+![alt text][logo]
+
+[logo]: https://chemaxon.com/app/uploads/2017/06/powered_by_chemaxon_GOLD_M.png "ChemAxon logo"
+
 ======================================================================
 
             CNS MPO Score and Solubility forecaster index (3.2)
